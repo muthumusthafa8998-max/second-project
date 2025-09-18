@@ -1,0 +1,56 @@
+button :hover{
+ background-color: blue;
+}
+
+#sign{
+    border-radius: 5px;
+    background-color: red;
+
+}
+.head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+.form-control{
+    margin-left: 100px;
+    display: flex;
+    align-items: center;
+    height: 60px;
+    background: transparent;
+    backdrop-filter: blur(2px);
+}
+.main{
+    background-color: aqua;
+}
+.card-img-top{
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+}
+h1{
+    color: aliceblue;
+}
+h3{
+    color: aliceblue;
+}
+/* .card{
+    background-color:black;
+    color:white ;
+    display: flex;
+    justify-content: space-between;
+} */
+.card border-dark mb-3{
+    color: aliceblue;
+}
+#accordionFlushExample{
+    background-color: black;
+    
+}
+body {
+  overflow-x: hidden;
+}
+
+
